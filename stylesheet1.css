@@ -1,0 +1,18 @@
+a {
+    line-height: inherit;
+    color: #1796cb;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+div {
+    display: block;
+}
+
+body {
+    font-family: "crete round", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+}
